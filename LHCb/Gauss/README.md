@@ -144,3 +144,12 @@ Now lets give some information about the options which we told gauss to use.  Th
 |  `'$LBPYTHIA8ROOT/options/Pythia8.py'`                     | This tells Gauss to use pythia as signal generator           |
 | `'$APPCONFIGOPTS/Gauss/G4PL_FTFP_BERT_EmNoCuts.py'`        | This tells Gauss to use Geant4 as detetor simulation tool with config |
 | `'$GAUSSOPTS/GenStandAlone.py'`                            | Run only signal generation part and ignore full detetor simulation |
+
+
+
+
+## Resources
+
+[ Simulation in LHCb Twiki ](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSimulation)
+[ LHCb Software Training Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSoftwareTutorials)
+[Gauss in LHCb Starterkit](https://lhcb.github.io/starterkit-lessons/second-analysis-steps/simulation.html)
