@@ -150,6 +150,7 @@ Now lets give some information about the options which we told gauss to use.  Th
 
 ## Resources
 
-[ Simulation in LHCb Twiki ](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSimulation)
-[ LHCb Software Training Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSoftwareTutorials)
-[Gauss in LHCb Starterkit](https://lhcb.github.io/starterkit-lessons/second-analysis-steps/simulation.html)
+- [ Simulation in LHCb Twiki ](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSimulation)
+- [ LHCb Software Training Twiki](https://twiki.cern.ch/twiki/bin/view/LHCb/LHCbSoftwareTutorials)
+- [Gauss in LHCb Starterkit](https://lhcb.github.io/starterkit-lessons/second-analysis-steps/simulation.html)
+- [SUSY Les Houches Accord calculations and phenomenology](http://skands.physics.monash.edu/slha/)
