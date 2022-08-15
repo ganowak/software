@@ -146,6 +146,23 @@ Now lets give some information about the options which we told gauss to use.  Th
 | `'$GAUSSOPTS/GenStandAlone.py'`                            | Run only signal generation part and ignore full detetor simulation |
 
 
+## Nightly version 
+
+This is how we can run the nightly version of Gauss
+
+The general syntax is 
+
+```
+lb-run --nighlty lhcb-gauss-dev/SLOTID Gauss/HEAD gaudirun.py Gauss-Job.py
+```
+
+Where `SLOTID` would be `Today` or the one that we are interested
+
+The default is `Today` and could also be used as follows 
+
+```
+lb-run --nightly lhcb-gauss-dev Gauss/HEAD  gaudirun.py Gauss-Job.py
+```
 
 
 ## Resources
