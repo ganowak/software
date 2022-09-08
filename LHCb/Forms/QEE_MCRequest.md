@@ -9,7 +9,7 @@ Brief Motivation: The University of Cincinnati group is trying to measure the WW
 For which year(s) do you need your samples to be made, and how many events in total:  Years: 2016, 2017, 2018 Events: 12M Total, 4M Each
 Which data format: Full DST  
 Is your request exceeding the limit and requires PPG approval: *Leave Blank*  
-Event type numbers and events to be produced per magnet polarity: 41922002: 2M each polarity  
+Event type numbers and events to be produced per magnet polarity: 41922002: 2000000  
 Decay files: WW_lnul,lnul=1l15GeV.dec  
 Any other information: Generator Statistics Table Requested  
 
